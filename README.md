@@ -1,4 +1,4 @@
-google-homepage
-===============
+Remaking the Google homepage AND its search results page!
 
-Google Homepage
+Instructions from The Odin Project!
+http://www.theodinproject.com/web-development-101/html-css
